@@ -35,8 +35,8 @@
 | 条目名称   | 条目内容 | 版本号       | 备注     |
 |------------|----------|--------------|----------|
 | 程序设计语言 | python     | 3.98 64-bit(system) |          |
-| IDE        | Visual Studio Code  | 1.62.2(system setup) | |
-| 框架       | Django | 3.3.0 | |
+| IDE        | Visual Studio Code  | 1.62.2(system setup) | 
+| 框架       | Django | 3.3.0 | 
 
 ## 3.3 代码仓库链接及代码提交历史截图
 
